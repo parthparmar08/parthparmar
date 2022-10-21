@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, Myself Parth PArmar</h1>
+<h1 align="center">Hi 👋, Myself Parth Parmar</h1>
 <h3 align="center"> Enthusiatic & Ambitious Software Developer From <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr097&label=Profile%20views&color=0e75b6&style=flat" alt="hr097" /> </p>
-<p align="left"> <a href="https://github.com/parthparmar08?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+<!-- <p align="left"> <a href="https://github.com/parthparmar08?tab=followers"><img src="https://img.shields.io/github/followers/hr097?label=Followers&style=social" alt="GitHub Badge"></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
