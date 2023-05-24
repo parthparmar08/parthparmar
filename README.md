@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m Currently Persuing **MSc IT Degree{Final Year}**
+- 🌱 I’m Currently Persuing **MSc IT Degree {Final Year}**
 
-- 💬 Ask me about **C/C++/.NET/Web/Software Development**
+- 💬 Ask me about **Node JS / React JS / MongoDB / Web Development / Software Development**
 
-- 📫 you can reach me via my email =  **parthparmar661@gmail.com**
+- 📫 You can reach me via my email =  **parthparmar661@gmail.com**
 
-- 🚀 System Designer🧩, Devloper & Passionate **Team Leader🌟**
+- 🚀 Full Stack Engineer🧩, Devloper & Passionate **Team Leader🌟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
